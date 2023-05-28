@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer / Engineer<br><br>PhD in CyberSecurity & Computer Science<br><br>Infrastructure engineer<br><br>
+Software Developer / Engineer<br><br>Infrastructure engineer<br><br>
 
 
 ## 🌐 Socials:
