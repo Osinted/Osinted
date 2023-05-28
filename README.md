@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer / Engineer<br><br>Infrastructure engineer<br><br>Computer Science <br>
+Software Developer / Engineer<br><br>Infrastructure engineer<br><br>Computer Science Architect<br>
 
 
 ## 🌐 Socials:
